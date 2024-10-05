@@ -35,8 +35,10 @@ In this lab, you will:
 2. From the terminal OS prompt type the following to launch jupyter notebook:
 
     ```
+    <copy>
         $ cd /home/oracle/AIdemo
         $ jupyter lab
+    </copy>
     ```
 
 3. Open the notebook **RAGLAB1.ipynb**. You can double click or right-click and select **Open**.
