@@ -16,18 +16,13 @@
       },
       {
         "title": "Lab 1: Explore a RAG-Based Application",
-        "description": "Hands-on lab for building and running the RAG Application.",
+        "description": "Demo lab for users to experience a RAG-based application.",
         "filename": "../../explore-rag-app/explore-rag-app.md"
         },
       {
-      "title": "Lab 2: Build a RAG Application with Oracle AI Vector Search and PL/SQL",
-      "description": "Hands-on lab for building and running the RAG Application.",
+      "title": "Lab 2: Build a RAG-Based Application with Oracle AI Vector Search and PL/SQL",
+      "description": "Hands-on lab for building and running the RAG-based Application.",
       "filename": "../../explore-rag-app/explore-rag-app.md"
-      },
-      {
-      "title": "Lab 3: Further Explore the RAG Application",
-      "description": "Run the Streamlit RAG Application.",
-      "filename": "../../lab2/lab2.md"
       },
       {
       "title": "Need Help?",
