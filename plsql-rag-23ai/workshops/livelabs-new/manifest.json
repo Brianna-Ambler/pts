@@ -1,0 +1,33 @@
+{
+  "workshoptitle": "AI Vector Search - Complete RAG application with Oracle AI Vector Search and PLSQL",
+  "help": "livelabs-help-db_us@oracle.com",
+  "variables": ["../../variables/variables.json",
+      "../../variables/variables-in-another-file.json"],
+  "tutorials": [
+      {
+      "title": "Introduction",
+      "description": "Introduction to RAG in GenAI",
+      "filename": "../../introduction/introduction-new.md"
+      },
+      {
+        "title": "Access the NoVNC Remote Desktop",
+        "description": "Verify Setup of compute instance",
+        "filename": "https://oracle-livelabs.github.io/common/labs/verify-compute/verify-compute-novnc.md"
+      },
+      {
+        "title": "Lab 1: Explore a RAG-Based Application",
+        "description": "Demo lab for users to experience a RAG-based application.",
+        "filename": "../../explore-rag-app/explore-rag-app.md"
+        },
+      {
+      "title": "Lab 2: Build a RAG-Based Application with Oracle AI Vector Search and PL/SQL",
+      "description": "Hands-on lab for building and running the RAG-based Application.",
+      "filename": "../../build-rag-app/build-rag-app.md"
+      },
+      {
+      "title": "Need Help?",
+      "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+      "filename": "https://oracle-livelabs.github.io/common/labs/need-help/need-help-livelabs.md"
+    }
+  ]
+}
