@@ -13,9 +13,9 @@
       "filename": "../../lab0/lab0.md"
     },
     {
-    "title": "Lab 1: Build and Run the RAG Application with Oracle AI Vector Search and PLSQL",
-    "description": "Hands-on lab for building and running the RAG Application.",
-    "filename": "../../build-rag-app/build-rag-app.md"
+      "title": "Lab 1: Build and Run the RAG Application with Oracle AI Vector Search and PLSQL",
+      "description": "Hands-on lab for building and running the RAG Application.",
+      "filename": "../../lab1/lab1.md"
     },
     {
     "title": "Lab 2: Run the RAG application with an interactive UI",
