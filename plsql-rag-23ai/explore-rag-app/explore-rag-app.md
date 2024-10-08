@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Have you ever received an LLM (Large Language Model) response that wasn't quite what you were looking for? No worries! With Oracle's RAG (Retrieval Augemented Generation) technology, you can easily fine-tune an LLM with your own data to improve the response quality without retraining the model.Before we explain how to do this, we want to show you! 
+Have you ever received an LLM (Large Language Model) response that wasn't quite what you were looking for? No worries! With Oracle's RAG (Retrieval Augemented Generation) technology, you can easily fine-tune an LLM with your own data to improve the response quality without retraining the model. Before explaining how to do this, we want to show you! 
 
 Imagine you wanted to learn more about Oracle's latest database version, Oracle Database 23ai. Well, a generic LLM likely won't have specific details on this topic. In this workshop, we'll be using RAG to help us feed Oracle-specific data into the model and have it better answer our 23ai-related questions. In this lab, we'll use the demo application, you will later build, to show you the difference in response quality before and after RAG. 
 
