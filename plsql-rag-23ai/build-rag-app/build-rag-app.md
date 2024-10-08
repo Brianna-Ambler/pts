@@ -75,7 +75,7 @@ You've now explored and built a RAG application. To test additional use-case sce
     * Select the file 'AI Vector Search User-Guide'.
     * Click 'Upload'.
     
->Remember, once the file is uploaded, it triggers the RAG workflow you built in Task 1.
+    >**Remember, once the file is uploaded, it triggers the RAG workflow you built in Task 1.**
 
 5. Re-enter the prompt, and observe the improvement in response quality. Repeat as desired!
 
